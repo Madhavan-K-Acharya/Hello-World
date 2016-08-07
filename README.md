@@ -1,2 +1,3 @@
 # Hello-World
-Practicing basics of git
+Welcome to my Git!
+There may not be much to see here, due to my employment agreement.
